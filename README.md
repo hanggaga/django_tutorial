@@ -11,6 +11,10 @@ $ git clone https://github.com/hanggaga/django_tutorial.git
 ```
 $ pip install -r requirements.txt
 ```
+### Creating an admin user
+```
+$ python manage.py createsuperuser
+```
 ### The development server
 ```
 $ python manage.py makemigrations
