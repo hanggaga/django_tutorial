@@ -1,4 +1,4 @@
-# django-api
+# django_tutorial
 
 ## Requirement
 - python latest version [Python](https://www.python.org/)
@@ -13,6 +13,7 @@ $ pip install -r requirements.txt
 ```
 ### The development server
 ```
+$ python manage.py makemigrations
 $ python manage.py migrate
 $ python manage.py runserver
 ```
