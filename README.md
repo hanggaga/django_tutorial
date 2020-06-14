@@ -21,3 +21,4 @@ $ python manage.py makemigrations
 $ python manage.py migrate
 $ python manage.py runserver
 ```
+Reference: [Django Project Documentation](https://docs.djangoproject.com/en/3.0/intro/tutorial01/)
